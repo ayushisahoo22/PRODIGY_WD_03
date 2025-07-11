@@ -20,11 +20,16 @@ This project was created to practice and demonstrate core web development skills
 5) It serves as a great starting point for anyone looking to build simple browser games or learn more about DOM manipulation.
 
 ### ✨ Features
-✅ Player vs Player mode: Two users can take turns playing on the same device.
+✅ Player vs Player mode: Two users can take turns playing on the same device. 
+
 ✅ Player vs AI mode: Challenge a basic AI that makes random or predefined moves.
+
 ✅ Real-time win detection: The game announces the winner immediately once a winning pattern is detected.
+
 ✅ Draw detection: The game recognizes and announces when there’s no winner.
+
 ✅ Responsive design: Works on desktop and mobile browsers.
+
 ✅ Reset/New Game options: Quickly restart the game or start a new match.
 
 ### 🚀 Technologies Used
