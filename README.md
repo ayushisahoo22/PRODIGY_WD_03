@@ -42,7 +42,7 @@ JavaScript: To handle user clicks, game logic, and updating the UI dynamically.
 ### ▶️ How to Play
 Choose your game mode: Play vs Player or Play vs AI.
 
-Click on any empty cell to place your marker (X begins the game).
+Click on any empty cell to place your marker (O begins the game).
 
 The game alternates turns and automatically checks for a winner or draw after every move.
 
