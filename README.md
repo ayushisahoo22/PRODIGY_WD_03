@@ -1,11 +1,7 @@
 # PRODIGY_WD_03
 
 ### 🕹️ Tic-Tac-Toe Web Application:
-A fully interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. 
-
-This project allows users to play the classic game either against another player or against a simple AI opponent. 
-
-The goal, as always, is to get three of your markers in a row — horizontally, vertically, or diagonally.
+A fully interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project allows users to play the classic game either against another player or against a simple AI opponent. The goal, as always, is to get three of your markers in a row — horizontally, vertically, or diagonally.
 ### 📌 Project Overview: 
 
 1. This project was created to practice and demonstrate core web development skills, including:
