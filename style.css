@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #A1C6EA;
+    text-align: center;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border: radius 1rem;
+    border: none;
+    font-size: 8vmin;
+    color: brown;
+    background-color:cornsilk
+}
+
+.reset {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: black;
+    color: bisque;
+    border-radius: 1rem;
+    border: none;
+}
+
+#new{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: black;
+    color: bisque;
+    border-radius: 1rem;
+    border: none;
+}
+
+#msg{
+    color: beige;
+    font-size: 8vmin;
+}
+
+.msg-container{
+    height:100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.hide{
+    display:none;
+}
+
+#play-vs-player{
+    color:beige;
+    background-color: black;
+    font-size: 4vmin;
+    padding: 1rem;
+}
+
+#play-vs-ai{
+    color:beige;
+    background-color: black;
+    font-size: 4vmin;
+    padding: 1rem;
+    
+}
+
+.mode-buttons{
+    margin-top: 3rem;
+    justify-content: space-evenly;
+    align-items: row;
+}
+
+.hideReset{
+    display: none;
+}
+
+.hideBox{
+    display: none;
+}
+
+#play-vs-player.active-mode,#play-vs-ai.active-mode{
+    background-color: beige;
+    color: black;
+}
